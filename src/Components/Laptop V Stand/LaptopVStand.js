@@ -4,7 +4,7 @@ import React from 'react'
 function Bungee() {
   return (
     <div className='flex flex-col justify-center border-2 border-black p-4 m-4'>
-      <h1 className='mx-auto text-3xl mb-4'>Mouse Bungee</h1>
+      <h1 className='mx-auto text-3xl mb-4'>Stand de Laptop Vertical</h1>
       <img
         src='https://media0.giphy.com/media/70wcawk81JYLdbZri1/giphy.gif?cid=790b7611cfc8b500e08d820d060aba5e04bcc30997a465d6&rid=giphy.gif&ct=g'
         alt=''
